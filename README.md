@@ -14,10 +14,9 @@
 
 I'm a 5th-semester Software Engineering student focused on building practical web applications, designing clean relational databases, and working in terminal-driven Linux environments. Having studied software engineering since vocational high school, I enjoy turning messy data and manual workflows into structured, reliable software.
 
-- 🔭 **Currently building:** Full-stack web systems with Laravel and lightweight cross-platform desktop apps with Rust & Tauri
 - 🌱 **Exploring:** Information security, network administration, and AI-assisted development workflows
 - 💻 **Daily environment:** Arch Linux (`linux-zen` + `fish`) & Windows dual-boot
-- ⚡ **Outside of code:** Android custom ROM tinkering, system optimization, and spicy food
+- ⚡ **Outside of code:** Android custom ROM tinkering, system optimization, playing video games and spicy food
 
 ---
 
@@ -32,19 +31,9 @@ I'm a 5th-semester Software Engineering student focused on building practical we
 
 ---
 
-### Featured Projects
-
-- **[Artisan Ledger](https://github.com/yourusername/artisan-ledger)** — Full-stack cafe POS and inventory management web app built with **Laravel** and **MariaDB**, featuring bill-of-materials stock tracking, role-based access control, and sales reporting.
-- **[Personal Portfolio](https://github.com/yourusername/portfolio)** — Clean, responsive developer portfolio built with modern web standards and minimal overhead.
-- **[Desktop Utility Apps](https://github.com/yourusername)** — Lightweight native desktop tools built with **Rust** and **Tauri v2**.
-
-*(Replace the placeholder links above with your actual repository URLs—or remove any project you keep private.)*
-
----
-
 ### GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=8B949E" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nocturnnnnn&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocturnnnnn&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=8B949E" alt="Top Languages" />
 </div>
